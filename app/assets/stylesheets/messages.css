@@ -116,27 +116,27 @@ div.posted-message{
     margin-bottom: 40px;
 }
 
-div.form{
+.form{
     background-color: #dddddd;
     height: 90px;
     padding: 20px 40px;
     display: flex;
 }
 
-div.message-form{
+.message-form{
     background-color: white;
     display: flex;
     width: 100%;
 }
 
-input.type-message{
+.type-message{
     border: none;
     height: 50px;
     width: 100%;
     padding-left: 10px;
 }
 
-label.form-image{
+.form-image{
     font-size: 12px;
     background-color: lightblue;
     color: white;
@@ -150,7 +150,7 @@ input.hidden{
     display: none;
 }
 
-input.submit-btn{
+.submit-btn{
     background-color: #38aef0;
     border: none;
     color: white;
